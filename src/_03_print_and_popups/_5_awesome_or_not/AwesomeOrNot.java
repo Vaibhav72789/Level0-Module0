@@ -14,7 +14,7 @@ public class AwesomeOrNot {
 		// 3. Set your variable equal to a positive number less than 4 using     ran.nextInt(4); 
 	
 		// 3. Print your variable to the console
-	
+	// 
 		// 4. Get the user to enter something that they think is awesome
 	
 		// 5. If your variable is  0
